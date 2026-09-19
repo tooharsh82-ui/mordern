@@ -1,0 +1,6 @@
+{
+  "name": "Editorial Magazine Portfolio",
+  "description": "An award-winning, premium, responsive, editorial-style magazine portfolio website featuring oversized typography, dramatic layouts, black-and-white aesthetics, and professional interactive motion design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
